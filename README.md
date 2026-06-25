@@ -2,8 +2,8 @@
 
 ## Öğrenci Bilgileri
 
-- **Ad Soyad:** Adınız Soyadınız
-- **Öğrenci Numarası:** Öğrenci Numaranız
+- **Ad Soyad:** Faruh Karimov
+- **Öğrenci Numarası:** 24010502090
 
 ---
 
@@ -17,48 +17,79 @@ Projenin amacı; siber güvenliğin temel kavramlarını, siber tehditleri, güv
 
 ## Proje Açıklaması
 
-Bu projede aşağıdaki konular ele alınmıştır:
+Bu proje kapsamında aşağıdaki konular incelenmiştir:
 
 - Siber güvenlik nedir?
 - Siber saldırılar
 - Zararlı yazılımlar (Malware)
-- Kimlik Avı (Phishing)
-- Ağ Güvenliği
-- Veri Gizliliği
-- Güçlü Parola Oluşturma
-- Güvenlik Farkındalığı
+- Kimlik avı (Phishing)
+- Ağ güvenliği
+- Veri gizliliği
+- Güçlü parola oluşturma
+- Güvenlik farkındalığı
+
+Bu çalışma, Cisco Networking Academy'nin "Introduction to Cybersecurity" eğitiminde kazanılan bilgilerin dokümantasyonunu içermektedir.
 
 ---
 
-## Kullanılan Teknolojiler
-
-- Git
-- GitHub
-- Markdown (.md)
-- Cisco Networking Academy
-## Kullanılan Teknolojiler
-
-- Git
-- GitHub
-- Markdown (.md)
-- Cisco Networking Academy
-
-<-- BURADAN SONRA YAPIŞTIR -->
-
----
-
-# Proje Klasör Yapısı
-## Kullanılan Teknolojiler
+## Kullanılan Teknolojiler / Kütüphaneler
 
 - Git
 - GitHub
 - Markdown (.md)
 - Cisco Networking Academy
 
-<-- BURADAN SONRA YAPIŞTIR -->
+---
+
+## Proje Klasör Yapısı
+
+```text
+Introduction-to-Cybersecurity/
+│
+├── README.md
+└── Introduction_to_Cybersecurity_certificate.pdf
+```
 
 ---
 
-# Proje Klasör Yapısı
+## Kurulum Adımları
 
-...
+1. GitHub reposunu açın.
+2. README.md dosyasını inceleyin.
+3. Sertifika PDF dosyasını görüntüleyin.
+
+---
+
+## Çalıştırma / Kullanım Talimatları
+
+Bu proje bir yazılım uygulaması değildir.
+
+Projede Cisco Networking Academy tarafından verilen **Introduction to Cybersecurity** eğitimine ait sertifika ve proje dokümantasyonu bulunmaktadır.
+
+---
+
+## Ekran Görüntüleri
+
+Bu projede sertifika PDF dosyası yer almaktadır.
+
+---
+
+## GitHub Proje Bağlantısı
+
+https://github.com/karimov19941408-del/Introduction-to-Cybersecurity
+
+---
+
+## Kaynakça
+
+- Cisco Networking Academy
+- https://www.netacad.com
+- https://github.com
+- https://owasp.org
+- https://csrc.nist.gov
+
+---
+
+## Sonuç
+
+Bu proje sayesinde siber güvenliğin temel kavramları, karşılaşılabilecek siber tehditler ve alınabilecek temel güvenlik önlemleri hakkında bilgi edinilmiştir. Eğitim sonunda kazanılan bilgiler sertifika ile belgelenmiştir.
