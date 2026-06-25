@@ -36,3 +36,29 @@ Bu projede aşağıdaki konular ele alınmıştır:
 - GitHub
 - Markdown (.md)
 - Cisco Networking Academy
+## Kullanılan Teknolojiler
+
+- Git
+- GitHub
+- Markdown (.md)
+- Cisco Networking Academy
+
+<-- BURADAN SONRA YAPIŞTIR -->
+
+---
+
+# Proje Klasör Yapısı
+## Kullanılan Teknolojiler
+
+- Git
+- GitHub
+- Markdown (.md)
+- Cisco Networking Academy
+
+<-- BURADAN SONRA YAPIŞTIR -->
+
+---
+
+# Proje Klasör Yapısı
+
+...
